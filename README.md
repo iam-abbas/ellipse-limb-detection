@@ -1,6 +1,7 @@
 # ELLIPSE - LIMB DETECTION
 Using OpenCV and MPI Caffe Model
 
+
 ### ABSTRACT
 In recent advancements in fields like Machine Learning and Computer Vision, Person detection has become one of the most widely used applications. Person detection only provides you only a limited amount of data. Knowing the position of a person is not enough to determine the nature of his actions. 
 
