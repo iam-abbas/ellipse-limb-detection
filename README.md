@@ -18,7 +18,7 @@ Syntax: net = cv2.dnn.readNetFromCaffe(protoFile, weightsFile)
 Captured Video Input using OpenCV’s  cv2.VideoCapture(:PATH:) 
 Used every ith  (i = 10 in this case) and ran it through the loaded Neural Network Model which would return coordination of the Key-Points. We have made pairs of all Key-Points manually such that area between two Key-Points represents some part of the human body.
 
-#### Forming Ellipse:
+#### Forming an Ellipse:
 Used the coordinates of Key-Points as a reference to find out Centroid, Major Axis (Vertical), Minor Axis and Angle of the Ellipse.
 
 ##### Centroid:
