@@ -57,4 +57,5 @@ We used OpenCV’s video writer along with MJPG codec format to initiate an AVI 
 We have collected and analyzed the data and we will be using it for further improvement of model to use it for applications like:
 - Action Detection
 - Fight Detection
+- Maliciousness Detection 
 
